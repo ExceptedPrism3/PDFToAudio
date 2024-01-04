@@ -68,4 +68,4 @@ Check out the issues and pull requests sections.
 
 ## 📄 License
 
-This project is under the MIT License - see the LICENSE file for details.
+This project is under the MIT License - see the [LICENSE](LICENSE) file for details.
